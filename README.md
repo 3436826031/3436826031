@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @3436826031
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 这是我啊
+- 🌱 6666
+- 💞️ 就在这托管点代码吧
 - 📫 How to reach me ...
 
-<!---
-3436826031/3436826031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+这里能说点啥啊
